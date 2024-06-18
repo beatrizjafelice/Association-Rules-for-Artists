@@ -2,7 +2,7 @@
 
 (EN)
 
-This assignment was a part of the 2024.1 Data Mining coursework at the Federal University of ABC (UFABC). Special thanks to professor Debora Medeiros :)
+This assignment was completed as part of the 2024.1 Data Mining coursework at the Federal University of ABC (UFABC). Special thanks to professor Debora Medeiros :)
 
 ## Assignment
 1. Create a collaborative database where each student lists their favorite bands on the same line, separated by commas (minimum of 2 and maximum of 5 bands). For consistency, the names should be in uppercase and use underscores (_) instead of spaces.
